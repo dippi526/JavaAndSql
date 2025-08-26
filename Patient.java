@@ -1,5 +1,3 @@
-package Project1c.java;
-
 import java.io.Console;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
